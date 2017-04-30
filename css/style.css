@@ -1,0 +1,29 @@
+/*!
+Theme Name: Tecnocuba
+Theme URI: https://sertaodigital.com/clientes/tecnocuba
+Version: 1.0
+Description: Tema desenvolvido para o site da Tecnocuba.
+Author: Carlos Tiago
+Author URI: https://sertaodigital.com
+*/
+
+body {
+    font-family: 'Open Sans';
+    padding-bottom: 0px;
+}
+
+p {
+    font-weight: 100;
+}
+
+img.alignleft {
+    float: left;
+}
+
+img.alignright {
+    float: right;
+}
+
+img.aligncenter {
+    margin: 0 auto;
+}
